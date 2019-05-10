@@ -10,4 +10,6 @@
 
 
 
- - #### Part 1 : __[Installing shit](PART1.md)__
+
+- #### Section 1 : __[Installing shit](PART1.md)__
+- #### Section 2 : __[More shit](PART2.md)__
