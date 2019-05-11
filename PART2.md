@@ -1,7 +1,7 @@
 # Installing Servers
 
 
-#### __[Required Software](PART1.md)__ | __[Installing Servers](PART2.md)__ | __[Things To Do](PART3.md)__
+#### __[Required Software](PART1.md)__ | __[Installing Servers](PART2.md)__ | __[DHCP Server](PART3.md)__
 
 ---
 
