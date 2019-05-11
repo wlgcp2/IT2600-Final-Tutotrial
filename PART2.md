@@ -7,23 +7,23 @@
 
 ##### Once you've installed VMware workstation create a new VM.
 
-![alt text](newVM.png "newVM")
+![alt text](pictures/newVM.png "newVM")
 
 ##### Select the ISO file for the server that you downloaded.
 
-![alt text](iso.png "iso")
+![alt text](pictures/iso.png "iso")
 
 ##### Enter your key and set credentials.
 
-![alt text](winKey.png "winKey")
+![alt text](pictures/winKey.png "winKey")
 
 ##### Customize the server setting. Set according to your fit your beast or potato of a computer.
 
-![alt text](custom.png "custom")
+![alt text](pictures/custom.png "custom")
 
 ##### Then fire up Windows!
 
-![alt text](windows.png "windows")
+![alt text](pictures/windows.png "windows")
 
 ##### The same process applies for installing any Linux distro.
 

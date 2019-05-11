@@ -7,39 +7,39 @@
 
 ##### To start using your Windows server add some roles! You do this by opening the Server Manager application and clicking add roles.
 
-![alt text](roles.png "newVM")
+![alt text](pictures/roles.png "newVM")
 
 ##### Chose Role-Based installation
 
-![alt text](insType.png "insType")
+![alt text](pictures/insType.png "insType")
 
 ##### Select this server
 
-![alt text](selServer.png "selServer")
+![alt text](pictures/selServer.png "selServer")
 
 ##### And install DHCP server
 
-![alt text](dhcp.png "dhcp")
+![alt text](pictures/dhcp.png "dhcp")
 
 ##### Then in VMware Workstation add another network adapter and put it on vmnet 2.
 
-![alt text](addAdap.png "adapter")
+![alt text](pictures/addAdap.png "adapter")
 
 ##### Then configure the new adapter in windows.
 
-![alt text](adapWin.png)
+![alt text](pictures/adapWin.png)
 
 ##### Then go to the DHCP server manager and create a new scope.
 
-![alt text](newScope.png)
+![alt text](pictures/newScope.png)
 
 ##### Set the range for the available addresses and create the scope.
 
-![alt text](range.png)
+![alt text](pictures/range.png)
 
 ##### Create another server. I chose centos
 
-![alt text](centOS.png)
+![alt text](pictures/centOS.png)
 
 ---
 

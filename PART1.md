@@ -8,19 +8,19 @@
 
 #### **[Software Hub](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=e9adeca3-0c29-de11-a497-0030485a8df0&vsro=8)**
 
-![alt text](e5Site.png "e5site")
+![alt text](pictures/e5Site.png "e5site")
 
 ##### Sign in with your Canvas login credentials.
 
-![alt text](umsysLogin.png "umsysLogin")
+![alt text](pictures/umsysLogin.png "umsysLogin")
 
 ##### Navigate to VMware downloads. Then download VMware Workstation (Pro) 15
 
-![alt text](vmwareDownload.png "vmwareDownload")     
+![alt text](pictures/vmwareDownload.png "vmwareDownload")     
 
 ##### Add to cart and check out. All items in this hub are free!
 
-![alt text](checkout.png "checkout")   
+![alt text](pictures/checkout.png "checkout")   
 
 ##### You will then be given a product key (Hold on to this!). There will also be a download button for the software itself. Download and install with default settings     
 
@@ -29,13 +29,13 @@
 
 #### **[Microsoft Hub](https://azureforeducation.microsoft.com/devtools)**
 
-![alt text](azureDev.png "checkout")   
+![alt text](pictures/azureDev.png "checkout")   
 
 ##### Sign in with your school email credentials.
 
 ##### Then download Windows Server 2016 Datacenter. The datacenter version has the most features to play with. Also make sure to save the key again!
 
-![alt text](winServerLink.png "winServerLink")  
+![alt text](pictures/winServerLink.png "winServerLink")  
 
 ##### If you want a Linux server you can get your distro of choice. I've linked a few of the popular ones.
 
