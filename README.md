@@ -4,7 +4,7 @@
 ---
 
 
- ##### This tutorial will walk you through how to install a virtual environment and deploy servers if your are a University of Missouri Student. I will demonstrate setting up a virtual network with a Windows DHCP server on it.
+ ##### This tutorial will walk you through how to install a virtual environment and deploy servers if your are a University of Missouri Student. I will also demonstrate setting up a virtual network with a Windows DHCP server on it.
 
 
  ##### This tutorial is for helping University of Missouri computer science and IT students access and setup server virtualization.   

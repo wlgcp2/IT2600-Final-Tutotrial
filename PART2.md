@@ -7,7 +7,7 @@
 
 ##### Once you've installed VMware workstation create a new VM.
 
-![alt text](pictures/newVM.png "newVM")
+![alt text](pictures/newVm.png "newVm")
 
 ##### Select the ISO file for the server that you downloaded.
 
